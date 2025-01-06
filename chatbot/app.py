@@ -19,7 +19,7 @@ def load_exercise_data(csv_file):
         return None
 
 # Replace 'megaGymDataset.csv' with your actual filename
-exercise_data = load_exercise_data('megaGymDataset.csv')
+exercise_data = load_exercise_data('chatbot/megaGymDataset.csv')
 
 # --- Gather User Preferences ---
 def gather_user_preferences():
