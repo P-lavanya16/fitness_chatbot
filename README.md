@@ -27,7 +27,8 @@ The Fitness Chatbot leverages a  comprehensive exercise database and the power o
 
 https://github.com/user-attachments/assets/f318831c-5f63-4986-8645-7e53ce739259
 
-
+# deployed using Streamlit Sharing
+https://fitnesschatbot-xjpcnxnvvbd3j9nlalp9fv.streamlit.app/
 
 ## How to Run Locally
 
