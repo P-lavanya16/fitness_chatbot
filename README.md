@@ -20,7 +20,8 @@ The Fitness Chatbot leverages a  comprehensive exercise database and the power o
 * **Pandas:** Data manipulation and analysis (for managing the exercise database).
 
 # Screenshot of UI
-![Screenshot](https://github.com/user-attachments/assets/d3f288f6-a6b5-4358-ab3d-54a0bf7bb7e3)
+![Screenshot (145)](https://github.com/user-attachments/assets/36606106-5e5f-43e6-aaca-ade4156ac6f1)
+
 
 # Glance of project
 
